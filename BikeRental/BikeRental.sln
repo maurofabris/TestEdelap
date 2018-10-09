@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BikeRental", "BikeRental.csproj", "{8916C4A8-D4A9-41E1-87DF-00647AC57D4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BikeRentalUT", "..\BikeRentalUT\BikeRentalUT.csproj", "{C9926546-738F-45AE-A736-D3B8DB038087}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8916C4A8-D4A9-41E1-87DF-00647AC57D4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8916C4A8-D4A9-41E1-87DF-00647AC57D4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8916C4A8-D4A9-41E1-87DF-00647AC57D4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8916C4A8-D4A9-41E1-87DF-00647AC57D4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9926546-738F-45AE-A736-D3B8DB038087}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9926546-738F-45AE-A736-D3B8DB038087}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9926546-738F-45AE-A736-D3B8DB038087}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9926546-738F-45AE-A736-D3B8DB038087}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5224F106-4E14-4F82-86BA-1DD96CCB0597}
+	EndGlobalSection
+EndGlobal
